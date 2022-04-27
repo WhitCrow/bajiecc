@@ -1,6 +1,11 @@
 site_name: bajiecc
-site_url: https://example.com/
+site_url: https://www.gohh.top/
+site_description: '八戒的小店'
+copyright: 'copyrights by yichi zhang'
 nav:
     - Home: index.md
     - About: about.md
-theme: mkdocs
+theme:
+    name: material
+    locale: zh_CN
+    nav_style: dark
